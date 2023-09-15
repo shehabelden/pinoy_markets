@@ -1,0 +1,8 @@
+{
+  "name": "pinoy markets",
+  "payment":"payment",
+  "phone_number": "phone number",
+  "password": "password",
+  "forgot_password": "forgot password",
+  "create_new_account": "create new account"
+}

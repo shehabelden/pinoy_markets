@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "903204708278",
+    "project_id": "speed-jet-b0326",
+    "storage_bucket": "speed-jet-b0326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903204708278:android:3faec49a2a385967046b17",
+        "android_client_info": {
+          "package_name": "com.example.morgancopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903204708278-b8nhm1p7jc37cj39sobthsii40nhmse8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morgancopy",
+            "certificate_hash": "d814d9950fa24d7aacc76abba98dff1979064246"
+          }
+        },
+        {
+          "client_id": "903204708278-kt3h1vse4vs6kuc3gnldb8ba1ur41q9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYrpgl9zzebqxYPm1NJQiCNYLI1-9OC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903204708278-kt3h1vse4vs6kuc3gnldb8ba1ur41q9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903204708278-9idmg78bb0oetej0ib8qdvgtd8h3ioiq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morgancopy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
